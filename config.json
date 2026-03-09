@@ -1,7 +1,8 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "Mcpe_smp.aternos.me
+		",
+		"port": "50825",
 		"username": "Please enter the bot's username you want"
 	},
 	
